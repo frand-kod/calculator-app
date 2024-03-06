@@ -8,4 +8,8 @@ class Calculator
 	{
 		return a+b;
 	}
+	static init Pengurangan (int a, int b);
+	{
+		return a-b;
+	}
 }
