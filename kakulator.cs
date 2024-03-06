@@ -2,7 +2,8 @@ class Calculator
 {
 	static void Main(string[] args)
 	{
-		console.Writeline("Hello world");
+		Console.WriteLine("hasil penambahan " + a + "+" + b + " = " + Penambahan(a, b));
+		Console.WriteLine("hasil pengurangan " + a + "-" + b + " = " + Pengurangan(a, b));
 	}
 	static init Penambahan (int a, int b);
 	{
