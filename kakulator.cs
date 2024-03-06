@@ -4,4 +4,8 @@ class Calculator
 	{
 		console.Writeline("Hello world");
 	}
+	static init Penambahan (int a, int b);
+	{
+		return a+b;
+	}
 }
